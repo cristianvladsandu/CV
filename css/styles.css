@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway';
+  color: #40514E;
+
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Stalemate';
+  font-size: 100px;
+  margin-bottom: 0;
+  font-weight: normal;
+  color: #11999E;
+
+}
+
+hr {
+  border-style: dotted;
+  width: 6%;
+  border-width: 7px 0 0 0;
+  margin: 80px auto;
+  color: #EAF6F6;
+
+}
+
+
+.apro {
+  font-weight: normal;
+  font-size: 18px;
+  color: #11999E;
+}
+
+
+h2 {
+  font-family: 'Bitter';
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Bitter';
+  color: #66BFBF;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Raleway';
+}
+
+.a1 {
+  color: #EAF6F6;
+  text-decoration: underline;
+
+}
+
+.a1:hover {
+color: #11999E;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px 0 100px 0;
+  background:linear-gradient(to bottom, #E4F9F5 60%, white 100%);
+
+}
+
+.middle-container {
+background-color: white;
+}
+
+.bottom-container {
+background-color: #66BFBF;
+padding: 50px 0 30px 0;
+line-height: 2;
+word-spacing: 40px;
+font-weight: 900;
+}
+
+.top-cloud {
+  width: 10%;
+  position: absolute;
+  right: 370px;
+  top: 30px;
+
+}
+
+.bottom-cloud {
+  width: 10%;
+  position: absolute;
+  left: 350px;
+  bottom: 60px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 0 auto 100px auto;
+  line-height: 2;
+}
+
+.profile_img {
+  border-radius: 50%;
+  margin: 60px auto 30px auto;
+}
+
+.img1 {
+  width: 25%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img2 {
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Christian {
+  color: #EAF6F6;
+  word-spacing: normal;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+  line-height: 2;
+
+}
+
+.contact_message {
+  width: 70%;
+  margin: 40px auto 70px;
+  line-height: 2;
+}
+
+.btn {
+  box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #66bfbf 5%, #408c99 100%);
+	background-color:#66bfbf;
+	border-radius:8px;
+
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Raleway';
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #66bfbf 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:2px;
+}
+
+.h03 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
